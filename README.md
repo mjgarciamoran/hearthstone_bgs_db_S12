@@ -12,7 +12,7 @@ The database files are too large to store directly in the repository, so they ar
 
 The database itself is contained in the following zip file:
 
-📦 [db-2026-03-03.zip](https://github.com/mjgarciamoran/hearthstone_bgs_db_S12/releases/download/db-2026-03-03/db-2026-03-03.zip)
+📦 [hearthstone_bgs_db_S12.zip](https://github.com/mjgarciamoran/hearthstone_bgs_db_S12/releases/download/db-2026-03-03/hearthstone_bgs_db_S12.zip)
 
 ---
 
